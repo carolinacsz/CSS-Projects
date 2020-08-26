@@ -1,9 +1,6 @@
 ##  Layered Social Media Icon
 ![1](gif.gif)
 
-
-[Code](https://github.com/carolinacsz/css-projects/tree/master/1-layered-social-media-icon)
-
 ##### What I learned
 
 * *Create layers using the `<span>` tag*
