@@ -9,3 +9,9 @@
 
 
 [Code](https://github.com/carolinacsz/css-projects/tree/master/animated-loader)
+
+##  3 - Changing color div
+![3](https://github.com/carolinacsz/css-projects/blob/master/3-changing-color-div/gif.gif)
+
+
+[Code](https://github.com/carolinacsz/css-projects/tree/master/3-changing-color-div)
