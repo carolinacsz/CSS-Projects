@@ -1,8 +1,8 @@
 ##  Animated Loader
-![2](https://github.com/carolinacsz/css-projects/blob/master/animated-loader/gif.gif)
+![2](gif.gif)
 
 
-[Code](https://github.com/carolinacsz/css-projects/tree/master/animated-loader)
+[Code](https://github.com/carolinacsz/css-projects/tree/master/2-animated-loader)
 
 ##### What I learned
 
